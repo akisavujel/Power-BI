@@ -34,8 +34,7 @@ Python | Pandas | Jupyter Notebook | Power BI
 
 
 
-https://github.com/user-attachments/assets/2c7aab37-d527-4455-a52c-10665466bc14
-
+[Watch Dashboard Demo](https://streamable.com/o4nw7b)
 
 
 ## 📌 What I Learned
